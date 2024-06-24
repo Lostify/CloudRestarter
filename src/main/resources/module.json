@@ -1,0 +1,8 @@
+{
+  "group": "de.flobamedia",
+  "name": "CloudRestarter",
+  "version": "1.0.0",
+  "main": "de.flobamedia.cloudrestarter.CloudRestarterModule",
+  "author": "Floex",
+  "dependencies": []
+}
