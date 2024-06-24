@@ -35,4 +35,7 @@ public class NodeCloudRestarterManagement {
         this.module.writeConfig(Document.newJsonDocument().appendTree(configuration));
     }
 
+    public void start() {
+        this.service.start(this.configuration);
+    }
 }
